@@ -20,4 +20,4 @@ const start = async () => {
 }
 start() 
 
-//http://localhost:3000/api/user
+//http://localhost:3000/api/test

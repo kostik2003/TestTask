@@ -4,7 +4,7 @@ router.get('/', (req, res) => {
     res.json({message: '1234'})
 })
 router.post('/', (req, res) => {
-    res.json({message: '1234'})
+    res.json()
 })
 
 module.exports = router

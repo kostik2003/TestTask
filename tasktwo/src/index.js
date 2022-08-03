@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
@@ -7,8 +7,11 @@ import {BrowserRouter} from "react-router-dom";
 import AppRouter from "./component/AppRouter";
 
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 console.log(process.env.REACT_APP_API_URL)
+
 root.render(
   <BrowserRouter>
     <AppRouter />

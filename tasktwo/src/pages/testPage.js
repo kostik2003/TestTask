@@ -10,7 +10,7 @@ import {CheckJsonReq} from '../http/useApi'
 
 import "react-datepicker/dist/react-datepicker.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Routes, Route} from "react-router-dom";
+
 
 
 const TestPage = () => {
@@ -28,8 +28,8 @@ const TestPage = () => {
     const [phoneDirty, setPhoneDirty] = useState(false)
     const [messageError, setMessageError] = useState("Сообщение не может быть пустым")
 
-    const [formValid, setFormValid] = useState(false)
 
+    const [formValid, setFormValid] = useState(false)
 
 
     useEffect(() => {
@@ -114,7 +114,11 @@ const TestPage = () => {
 
     const click = async () => {
         const response =await CheckJsonReq(name, phone, message, email)
-        console.log(response)
+
+        setTimeout(() => {console.log(response)}, 1000)
+        if (response) {
+
+        }
     }
     return (
         <div className="App">

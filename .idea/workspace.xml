@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="901d4252-ee98-4372-bad4-3dd2019c9175" name="Changes" comment="test commit 2" />
+    <list default="true" id="901d4252-ee98-4372-bad4-3dd2019c9175" name="Changes" comment="test commit 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasktwo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasktwo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasktwo/src/pages/testPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasktwo/src/pages/testPage.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.karma.karma_node_package_dir": "",
-    "javascript.nodejs.core.library.configured.version": "18.7.0",
-    "javascript.nodejs.core.library.typings.version": "18.6.3",
-    "js.buildTools.gulp.gulp_package_dir": "",
-    "last_opened_file_path": "E:/kostya/JS/All projects",
-    "nodejs.cucumber.cucumber_node_package_dir": "",
-    "nodejs.jest.jest_package": "",
-    "nodejs.mocha.mocha_node_package_dir": "",
-    "nodejs.protractor.protractor_package": "",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "E:\\kostya\\JS\\Nodejs\\npm.cmd",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.karma.karma_node_package_dir&quot;: &quot;&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.7.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.6.3&quot;,
+    &quot;js.buildTools.gulp.gulp_package_dir&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/kostya/JS/All projects&quot;,
+    &quot;nodejs.cucumber.cucumber_node_package_dir&quot;: &quot;&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;&quot;,
+    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;&quot;,
+    &quot;nodejs.protractor.protractor_package&quot;: &quot;&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;E:\\kostya\\JS\\Nodejs\\npm.cmd&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\kostya\JS\All projects\tasktwo\src" />
@@ -138,7 +142,8 @@
       <workItem from="1659383417650" duration="3133000" />
       <workItem from="1659432574416" duration="3372000" />
       <workItem from="1659435983183" duration="3450000" />
-      <workItem from="1659468143238" duration="2044000" />
+      <workItem from="1659468143238" duration="2318000" />
+      <workItem from="1659550233357" duration="6662000" />
     </task>
     <task id="LOCAL-00001" summary="TestTask">
       <created>1659469549936</created>
@@ -161,7 +166,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659470172715</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test commit 2">
+      <created>1659470277632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659470277632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test commit 3">
+      <created>1659470335712</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659470335712</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test commit 4">
+      <created>1659470372940</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659470372940</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestTask" />
     <MESSAGE value="test commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit 2" />
+    <MESSAGE value="test commit 3" />
+    <MESSAGE value="test commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit 4" />
   </component>
 </project>
